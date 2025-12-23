@@ -33,3 +33,11 @@ All scripts share a similar workflow:
   - Surface Time Index (STI)
   - Constraint line slopes and transitions
   - Individual-level diving performance indicators
+
+**Dependencies**
+
+Primary R packages used across scripts:
+
+- tidyverse
+- quantreg
+- RcppRoll
