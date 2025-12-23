@@ -3,9 +3,9 @@ This repository contains an R workflow for analyzing Northern Fur seal, harbor s
 
 **Overview**
 
-The script processes individual seal dive records to:
+The script processes individual pinniped dive records to:
 
-1. Reads in dive statistics files that contain post-dive intervals and dive durations.
+1. Read in dive statistic files that contain post-dive intervals and dive durations.
 2. Calculate metrics related to dives beyond the calculated aerobic dive limit (cADL).
 3. Apply moving-window summations of dive duration and post-dive interval.
 4. Identify constraint lines using quantile regression.
