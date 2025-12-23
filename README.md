@@ -36,8 +36,8 @@ All scripts share a similar workflow:
 
 **Dependencies**
 
-Primary R packages used across scripts:
+R packages used across scripts:
 
-- tidyverse
-- quantreg
-- RcppRoll
+- 'tidyverse'
+- 'quantreg'
+- 'RcppRoll'
