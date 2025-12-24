@@ -30,7 +30,7 @@ All scripts share a similar workflow:
   - Re-fit constraint lines when violations occur
   - Generate diagnostic plots for quality control
 6. Derived Performance Metrics
-  - Surface Time Index (STI)
+  - Surface Time Inflection point (STI)
   - Constraint line slopes and transitions
   - Individual-level diving performance indicators
 
